@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<car>
+    <Cartype Cartype="coach" CartypeID="11">
+        <Colr ColrID="1101" Colr="red"></Colr>
+        <Colr ColrID="1102" Colr="green"></Colr>
+    </Cartype>
+    <Cartype Cartype="automobile" CartypeID="12">
+        <Colr ColrID="1201" Colr="yellow"></Colr>
+    </Cartype>
+    <Cartype Cartype="sedan" CartypeID="13">
+        <Colr ColrID="1301" Colr="red"></Colr>
+        <Colr ColrID="1302" Colr="white"></Colr>
+        <Colr ColrID="1303" Colr="yellow"></Colr>
+    </Cartype>
+</car>
